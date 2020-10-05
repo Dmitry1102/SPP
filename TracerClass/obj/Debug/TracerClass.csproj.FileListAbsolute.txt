@@ -1,0 +1,17 @@
+D:\УНИК\5 сем\СПП\1_spp\TracerClass\obj\Debug\TracerClass.csproj.CoreCompileInputs.cache
+D:\УНИК\5 сем\СПП\1_spp\TracerClass\bin\Debug\TracerClass.dll
+D:\УНИК\5 сем\СПП\1_spp\TracerClass\bin\Debug\TracerClass.pdb
+D:\УНИК\5 сем\СПП\1_spp\TracerClass\obj\Debug\TracerClass.dll
+D:\УНИК\5 сем\СПП\1_spp\TracerClass\obj\Debug\TracerClass.pdb
+D:\УНИК\5 сем\MPP(SPP)\1_spp\TracerClass\bin\Debug\TracerClass.dll
+D:\УНИК\5 сем\MPP(SPP)\1_spp\TracerClass\bin\Debug\TracerClass.pdb
+D:\УНИК\5 сем\MPP(SPP)\1_spp\TracerClass\obj\Debug\TracerClass.csproj.CoreCompileInputs.cache
+D:\УНИК\5 сем\MPP(SPP)\1_spp\TracerClass\obj\Debug\TracerClass.dll
+D:\УНИК\5 сем\MPP(SPP)\1_spp\TracerClass\obj\Debug\TracerClass.pdb
+D:\УНИК\5 сем\MPP(SPP)\1_spp\TracerClass\obj\Debug\TracerClass.csprojAssemblyReference.cache
+D:\5 семестр\СПП\1_spp\TracerClass\bin\Debug\TracerClass.dll
+D:\5 семестр\СПП\1_spp\TracerClass\bin\Debug\TracerClass.pdb
+D:\5 семестр\СПП\1_spp\TracerClass\obj\Debug\TracerClass.csprojAssemblyReference.cache
+D:\5 семестр\СПП\1_spp\TracerClass\obj\Debug\TracerClass.csproj.CoreCompileInputs.cache
+D:\5 семестр\СПП\1_spp\TracerClass\obj\Debug\TracerClass.dll
+D:\5 семестр\СПП\1_spp\TracerClass\obj\Debug\TracerClass.pdb

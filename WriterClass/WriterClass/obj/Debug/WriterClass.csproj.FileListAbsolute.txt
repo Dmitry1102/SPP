@@ -1,0 +1,12 @@
+D:\УНИК\5 сем\MPP(SPP)\1_spp\WriterClass\WriterClass\bin\Debug\WriterClass.dll
+D:\УНИК\5 сем\MPP(SPP)\1_spp\WriterClass\WriterClass\bin\Debug\WriterClass.pdb
+D:\УНИК\5 сем\MPP(SPP)\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.csproj.CoreCompileInputs.cache
+D:\УНИК\5 сем\MPP(SPP)\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.dll
+D:\УНИК\5 сем\MPP(SPP)\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.pdb
+D:\УНИК\5 сем\MPP(SPP)\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.csprojAssemblyReference.cache
+D:\5 семестр\СПП\1_spp\WriterClass\WriterClass\bin\Debug\WriterClass.dll
+D:\5 семестр\СПП\1_spp\WriterClass\WriterClass\bin\Debug\WriterClass.pdb
+D:\5 семестр\СПП\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.csprojAssemblyReference.cache
+D:\5 семестр\СПП\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.csproj.CoreCompileInputs.cache
+D:\5 семестр\СПП\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.dll
+D:\5 семестр\СПП\1_spp\WriterClass\WriterClass\obj\Debug\WriterClass.pdb
